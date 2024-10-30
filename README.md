@@ -7,6 +7,8 @@
 
 
 ## Recursos Utilizados
+- Python
+  ![Python](https://img.shields.io/badge/Python-3.8-blue)
 - C
 - Visual Studio Code
   ![VSCode](https://img.shields.io/badge/VSCode-latest-blueviolet)
