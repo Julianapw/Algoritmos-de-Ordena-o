@@ -1,17 +1,26 @@
-# Algoritmos de Ordenação
- ## Integrantes
- Ana Beatriz Maranho, Juliana Prado Ferreira e Laura Nogueira Pereira
+# Sorting Algorithms
 
-## Descrição
- Projeto da disciplina Estrutura de Dados com o objetivo de implementar os algoritmos em C, analisar suas complexidades teóricas,medir e comparar seus desempenhos práticos, desenvolver habilidades de análise e apresentação de dados
+## Team Members
+Ana Beatriz Maranho, Juliana Prado Ferreira, and Laura Nogueira Pereira
 
+---
 
-## Recursos Utilizados
-- Python
+## Description
+This project was developed for the **Data Structures** course with the objective of implementing sorting algorithms in **C**, analyzing their theoretical time complexities, measuring and comparing their practical performance, and developing skills in data analysis and presentation.
+
+---
+
+## Technologies & Resources Used
+
+- Python  
   ![Python](https://img.shields.io/badge/Python-3.8-blue)
-- C
-- Visual Studio Code
+
+- C  
+
+- Visual Studio Code  
   ![VSCode](https://img.shields.io/badge/VSCode-latest-blueviolet)
 
-## Conclusão
- Este projeto permitiu uma compreensão prática e teórica dos diferentes algoritmos de ordenação, identificando a eficiência e as limitações de cada um. O Merge Sort mostrou-se consistentemente rápido, mas o Quick Sort obteve melhores tempos no caso médio. Bubble Sort, como previsto, foi o menos eficiente. Esta experiência destacou a importância de selecionar algoritmos conforme o contexto de uso e a necessidade de escalabilidade.
+---
+
+## Conclusion
+This project enabled both practical and theoretical understanding of different sorting algorithms, identifying the efficiency and limitations of each one. **Merge Sort** proved to be consistently fast, while **Quick Sort** achieved better performance in average-case scenarios. As expected, **Bubble Sort** was the least efficient. This experience highlighted the importance of selecting algorithms based on the usage context and scalability requirements.
